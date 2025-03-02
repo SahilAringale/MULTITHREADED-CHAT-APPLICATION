@@ -55,4 +55,6 @@ Client 2: Hi there! How are you?
 Client 1: I'm doing great, thanks!
 ```
 
-#OUTPUT: 
+#OUTPUT: ![Image](https://github.com/user-attachments/assets/5ea3bcba-3b19-4e97-affe-d76be5d05732)
+
+       :
